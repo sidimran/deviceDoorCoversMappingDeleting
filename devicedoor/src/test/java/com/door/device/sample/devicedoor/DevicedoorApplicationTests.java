@@ -1,0 +1,13 @@
+package com.door.device.sample.devicedoor;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DevicedoorApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
